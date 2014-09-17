@@ -1,0 +1,31 @@
+<style media="all" type="text/css">@import "/menu/menu_style.css";</style>
+<div class="menu">
+<ul>
+<li><a id="current" href="/AdminHome.jsp" target="_self" >HOME</a>
+</li>
+<li><a href="#" target="_self" >JOBS</a>
+<ul>
+<li><a href="/AddJob.jsp" target="_self">ADDJOB</a></li>
+<li><a href="/ViewJobs.jsp" target="_self">VIEWJOBS</a></li>
+</ul>
+</li>
+<li><a href="#" target="_self" >DEPARTMENTS</a>
+<ul>
+<li><a href="/AddNewDept.jsp" target="_self">ADDNEWDEPT</a></li>
+<li><a href="/ViewDepts.jsp" target="_self">VIEWDEPTS</a></li>
+</ul>
+</li>
+<li><a href="/LoginDetails.jsp" target="_self" >LOGINDETAILS</a>
+</li>
+<li><a href="/AddNewEmp.jsp" target="_self" >EMPLOYEES</a>
+<ul>
+<li><a href="/AddNewEmp.jsp" target="_self">ADDNEWEMP</a></li>
+<li><a href="/ViewEmps" target="_self">VIEWEMPS</a></li>
+</ul>
+</li>
+<li><a href="/MyMails" target="_self" >MAILBOX</a>
+</li>
+<li><a href="" target="_self" >SIGNOUT</a>
+</li>
+</ul>
+</div>
